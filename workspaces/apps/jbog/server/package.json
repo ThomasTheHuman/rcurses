@@ -1,0 +1,8 @@
+{
+  "name": "@jbog/server",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@jbog/dto": "^0.0.1",
+    "typescript": "^4.6.2"
+  }
+}
