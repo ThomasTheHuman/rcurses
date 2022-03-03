@@ -1,0 +1,7 @@
+{
+  "name": "@jbog/dto",
+  "version": "0.0.1",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}

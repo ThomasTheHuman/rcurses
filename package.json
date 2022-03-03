@@ -1,0 +1,11 @@
+{
+  "name": "rcurses",
+  "version": "0.0.1",
+  "repository": "https://github.com/ThomasTheHuman/rcurses.git",
+  "author": "Tomasz Ślązak",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.0",
+  "workspaces": [
+    "workspaces/**"
+  ]
+}
